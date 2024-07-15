@@ -33,4 +33,3 @@ class Baseutility(object):
                 todo_details.update({str(item.get("id")): item.get("completed")})
 
         return todo_details
-

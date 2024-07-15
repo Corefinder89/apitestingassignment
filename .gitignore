@@ -1,2 +1,7 @@
 venv/
 .idea/
+app/__pycache__/*
+app/test/__pycache__/*
+app/utility/__pycache__/*
+app/test/__pycache__/test_api_validation.cpython-311-pytest-8.0.1.pyc
+app/utility/__pycache__/baseutility.cpython-311.pyc
